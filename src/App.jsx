@@ -1,4 +1,5 @@
 function App() {
+    console.log('is it working?')
     return (
         <main>
             <div id="game-container">
